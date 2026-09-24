@@ -73,7 +73,7 @@ More projects will be added as I continue building.
 
 ## Portfolio
 
-🌐 **Live website coming soon**
+🌐 **website:**[Portfolio](https://hashimrbaba.netlify.app)
 
 ---
 
